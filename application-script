@@ -1,0 +1,11 @@
+
+:) read zero -> start after the fourth line and get the number of lines (when a letter is reached, return)
+:) convert int to string
+:) convert string to int
+:) create two empty matrices 0.0 -> $a0 and $a1 = x and y : one for int and other for char (maxval)
+:) read one -> read, after the fourth line, the file and write it on a matrix
+:) write header and matrix_string
+:) convert matrix_int to matrix_string
+:) convert matrix_string to matrix_int
+# sum 2 matrices
+# multiple matrix por constant
